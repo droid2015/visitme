@@ -1,0 +1,6 @@
+<img src='http://img70.imageshack.us/img70/4537/visitmefbnobetasmall.jpg' />
+
+VisitME is a simple solution that fulfills the dream of meeting physically with your loved ones from all over the world. It provides user-friendly tools developed on social-networking sites, such as Facebook, to search for cheap ticket information. With Kayak’s “Best Travel Search Engine" foundation, VisitME helps planning your journey in an economical way.
+
+## About ##
+We are a [team](Team.md) of ambitious computer science graduate students at UMass Boston given the goal of creating a set of social networking applications built on top of Kayak's powerful search capabilities for flight ticket quotes for Paul English and Joelle Skaff of Kayak.
